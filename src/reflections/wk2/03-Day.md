@@ -11,4 +11,4 @@ The elements tab allows for the viewing of both css and html. It is specifically
 
 ## What better whay to debug code in javascript than to console log it?
 
-The better practice for debugging your code is by implementing the javascriptdebug pane within your dev tools.
+The better practice for debugging your code is by implementing the javascriptdebug pane within your dev tools. Dev tools have a built in feature that allows you to track values or the processes that coincide within the code. This is helpful to test your code to see if it outputs correctly based on the job you require it to do 

@@ -7,7 +7,7 @@ There are three different ways to write out a function, function declaration, an
 
 ## What is parameters and what is arguments?
 
-Parameters help define a function name while arguements are the value each function.
+Parameters help define a function name. Parameters basically help define the "function within the function" or the function value and what it does. Arguements are the value each function in reguard to the code within the function block. 
 
 ## What is a higher order function, and what does one look like?
 
