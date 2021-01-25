@@ -8,3 +8,6 @@ __01/19/2021__
 
 ## Where can props be axcessed?
  Props can be axcessed through the html template. If you want to axcess it within the vue component it should be axcessed with the "this" keyword.  
+
+
+Afternoon project url: https://github.com/Jacob-Gruver/new-nasa-photos

@@ -8,3 +8,6 @@ __01/20/2021__
 
 ## What are mounting hooks? When might you use them?
  They are used to grab your component and use it as it is created. This allows for axcessing the component at a given time.
+
+
+Afternoon project url: https://github.com/Jacob-Gruver/winter2020-vue-gregslist

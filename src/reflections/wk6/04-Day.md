@@ -8,4 +8,6 @@ __01/21/2021__
 
 ## Can you pass parameters through nested routes? When might you use them?
  Yes you can pass params through nested routes implementing this.$route.params. This is useful when you are passing multiple data types.
+
+Afternoon project url: did with my partner Trevor. https://github.com/trevor-r-allen/pokedex-vue
   
